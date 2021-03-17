@@ -10,18 +10,12 @@ A game in which two players seek in alternate turns to complete a row, a column,
 
 ![tic-tac-toe](src/images/tic-tac-toe.png)
 
-### `Demo`
-
-Here you can play the game in the browser:
-[Demo Version](https://jquery-game-five.vercel.app/)
-
 ## `Tech Stack`
 
 - HTML
 - CSS
 - JS
 - jQuery
-- Vercel
 - Git Workflow
 
 ## `Project setup`
